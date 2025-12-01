@@ -1,0 +1,8 @@
+//가변 개수의 데이터 읽기
+
+#include <stdio.h>
+
+int main()
+{
+    printf("hello world");
+}
